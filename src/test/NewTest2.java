@@ -12,6 +12,7 @@ public class NewTest2 {
   @Test
   public void f() {
 	  System.out.println("hello2");
+	  	  System.out.println("hello2");
   }
   @Test
   public void f1() {
