@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class day4 {
 	
+	//GIT DEMO PULL PUSH
 	@Parameters({"URl","UserName"})
 	@Test(groups = {"Smoke"})
 	public void WebLoginHomeLoan(String siteName,String userid) {//sitename will have parameter url value
